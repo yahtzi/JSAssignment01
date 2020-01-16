@@ -1,0 +1,1 @@
+console.log("This is episode one of season one of Javascript.");
